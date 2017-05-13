@@ -2,6 +2,10 @@ h1 {
 color: FireBrick;
 }
 p1 {
-color: Blue;
 font-family: "Palatino Linotype", "Book Antiqua", palatino, serif;
+color: Blue;
+font-size: 26px;
+font-weight: 700;
+padding: 20px 10%;
+text-transform: uppercase;
 }
