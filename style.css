@@ -4,8 +4,7 @@ color: FireBrick;
 p1 {
 font-family: "Palatino Linotype", "Book Antiqua", palatino, serif;
 color: Blue;
-font-size: 26px;
-font-weight: 700;
+font-size: 16px;
+font-weight: 70;
 padding: 20px 10%;
-text-transform: uppercase;
 }
