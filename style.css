@@ -10,3 +10,6 @@ font-weight: 70;
 .headers {
   font-size: 20px;
 }
+.art-header {
+  background-image: url(https://cdn.pixabay.com/photo/2012/04/26/12/41/ink-42357_960_720.png);
+}
