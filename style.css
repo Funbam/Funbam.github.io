@@ -2,14 +2,25 @@ h1 {
 color: FireBrick;
 }
 p1 {
-font-family: "Palatino Linotype", "Book Antiqua", palatino, serif;
+font-family: "Palatino Linotype", "Book Antiqua", serif;
 color: Blue;
 font-size: 16px;
 font-weight: 70;
 }
 .headers {
-  font-size: 20px;
+  background-color: rgba(255, 255, 255, 0.9);
+  overflow-y: auto;
+  left: 0;
+  top: 0;
+  text-align: center;
+  width: 100%;
+  z-index: 10000;
+  color: #14213D;
+  display: inline-block;
+  font-family: "Abel", sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  margin: 16px 20px;
+  text-transform: uppercase;
 }
-.art-header {
-  background-image: url(https://cdn.pixabay.com/photo/2012/04/26/12/41/ink-42357_960_720.png);
-}
+
