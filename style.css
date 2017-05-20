@@ -1,12 +1,12 @@
 h1 {
 color: White;
 font-family: "Abel", sans-serif;
+padding-top: 100px;
 background: url(https://c1.staticflickr.com/8/7536/16035227679_1c7da786a4_b.jpg) no-repeat center top;
-background-size: cover;
+background-size: contain;
 background-attachment: fixed;
-height: 900px;
 position: relative;
-top: -55px;
+height: 500px;
 width: 100%;
 font-size: 72px;
 line-height: 60px;
@@ -16,12 +16,17 @@ text-align: center;
 p1 {
 font-family: "Palatino Linotype", "Book Antiqua", serif;
 color: Blue;
-font-size: 16px;
+font-size: 24px;
 font-weight: 70;
+}
+ul {
+  
 }
 .headers {
   background-color: rgba(255, 255, 255, 0.9);
+  border-bottom: 1px solid #466995;
   overflow-y: auto;
+  width= 100%;
   position: fixed;
   left: 0;
   top: 0;
