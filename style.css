@@ -1,5 +1,17 @@
 h1 {
-color: FireBrick;
+color: White;
+font-family: "Abel", sans-serif;
+background: url(https://c1.staticflickr.com/8/7536/16035227679_1c7da786a4_b.jpg) no-repeat center top;
+background-size: cover;
+background-attachment: fixed;
+height: 900px;
+position: relative;
+top: -55px;
+width: 100%;
+font-size: 72px;
+line-height: 60px;
+padding: 20px 10px;
+text-align: center;
 }
 p1 {
 font-family: "Palatino Linotype", "Book Antiqua", serif;
