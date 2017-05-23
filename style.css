@@ -37,6 +37,7 @@ height: 320px;
 width: 100%;
 line-height: 60px;
 text-align: center;
+z-index: 0;
 }
 .headers {
   list-style-type: none;
