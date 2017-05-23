@@ -25,6 +25,7 @@ font-size: 24px;
 font-weight: 70;
 }
 .headers {
+  list-style-type: none;
   background-color: rgba(255, 255, 255, 0.9);
   border-bottom: 1px solid #466995;
   overflow-y: auto;
