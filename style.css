@@ -1,7 +1,46 @@
+.title {
+color: White;
+font-family: "Abel", sans-serif;
+padding: 200px 0px 0px 0px;
+margin: 0px;
+background: url(https://c1.staticflickr.com/8/7536/16035227679_1c7da786a4_b.jpg) no-repeat center top;
+background-size: cover;
+background-attachment: fixed;
+position: relative;
+height: 500px;
+width: 100%;
+line-height: 60px;
+text-align: center;
+}
 h1 {
-color: FireBrick;
+font-size: 80px;
+}
+h2 {
+font-size: 60px;
 }
 p1 {
+font-family: "Palatino Linotype", "Book Antiqua", serif;
 color: Blue;
-font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 24px;
+font-weight: 70;
 }
+.headers {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-bottom: 1px solid #466995;
+  overflow-y: auto;
+  width= 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  text-align: center;
+  width: 100%;
+  z-index: 10000;
+  color: #14213D;
+  display: inline-block;
+  font-family: "Abel", sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  text-transform: uppercase;
+  padding: 0;
+}
+
