@@ -1,4 +1,4 @@
-h1 {
+.title {
 color: White;
 font-family: "Abel", sans-serif;
 padding: 200px 0px 0px 0px;
@@ -9,9 +9,14 @@ background-attachment: fixed;
 position: relative;
 height: 500px;
 width: 100%;
-font-size: 72px;
 line-height: 60px;
 text-align: center;
+}
+h1 {
+font-size: 80px;
+}
+h2 {
+font-size 70px;
 }
 p1 {
 font-family: "Palatino Linotype", "Book Antiqua", serif;
