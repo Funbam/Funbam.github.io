@@ -18,11 +18,17 @@ font-size: 80px;
 h2 {
 font-size: 60px;
 }
-p1 {
+.about {
 font-family: "Abel", serif;
-color: Black;
-font-size: 24px;
+color: White;
 font-weight: 70;
+margin: 0px;
+background: url("https://cdn.pixabay.com/photo/2014/11/20/22/57/abstract-539960_960_720.jpg") no-repeat center top;
+position: relative;
+height: 320px;
+width: 100%;
+line-height: 60px;
+text-align: center;
 }
 .headers {
   list-style-type: none;
