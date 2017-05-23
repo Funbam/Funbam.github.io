@@ -26,18 +26,18 @@ font-size: 25px:
 }
 .about {
 font-family: "Abel", serif;
-color: White;
+color: Black;
 font-weight: 70;
 margin: 0px;
 padding: 0px;
-background: url(https://cdn.pixabay.com/photo/2014/11/20/22/57/abstract-539960_960_720.jpg) no-repeat center top;
+background: url(http://maxpixel.freegreatpicture.com/static/photo/640/Polygon-Abstract-Landscape-Sky-Design-Triangle-1745096.png) no-repeat center top;
 background size: cover;
 position: relative;
 height: 320px;
 width: 100%;
 line-height: 60px;
 text-align: center;
-z-index: 0;
+z-index: 1;
 }
 .headers {
   list-style-type: none;
@@ -52,7 +52,7 @@ z-index: 0;
   width: 100%;
   z-index: 10000;
   color: #14213D;
-  display:block;
+  display: block;
   color: Black;
   font-family: "Abel", sans-serif;
   font-size: 16px;
