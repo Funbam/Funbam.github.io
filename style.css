@@ -78,7 +78,7 @@ p {
   width: 60%;
 }
 .about {
-  background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-5/shards.png");
+  background: url(https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-5/shards.png);
   margin: 0;
   padding: 40px;
   position: relative;
