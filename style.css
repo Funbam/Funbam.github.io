@@ -78,7 +78,8 @@ p {
   width: 60%;
 }
 .about {
-  background: url(https://first5271.files.wordpress.com/2017/05/red-e1495596232865.jpeg );
+  background: url(https://first5271.files.wordpress.com/2017/05/screenshot-2017-05-24-at-12-45-31-pm-e1495655253677.png);
+  background-size: cover;
   margin: 0;
   padding: 40px;
   position: relative;
