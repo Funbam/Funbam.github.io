@@ -31,7 +31,7 @@ list-style-type: none;
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
-  height: 500px;
+  height: 650px;
   width: 100%;
   color:White;
   font-family: "Abel", serif;
@@ -42,7 +42,7 @@ list-style-type: none;
   margin: 0 auto;
   position: relative;
   text-align: center;
-  top: 25%;
+  top: 35%;
   width: 50%;
 }
 h1 {
