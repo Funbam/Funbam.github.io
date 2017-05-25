@@ -23,6 +23,13 @@ body {
 li {
 list-style-type: none;
 }
+.nav a {
+color: Black; 
+text-decoration: none;
+}
+.nav li:hover {
+background-color: Grey;
+}
 .header {
   background-image: url(https://c1.staticflickr.com/8/7536/16035227679_1c7da786a4_b.jpg);
   background-position: center center;
