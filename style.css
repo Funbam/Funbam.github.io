@@ -1,5 +1,5 @@
 body {
-  background-color: #FFF;
+  background-color: #333;
   margin: 0;
   padding: 0;
 }
@@ -12,10 +12,7 @@ body {
   left: 0;
   top: 0;
   text-align: center;
-  width: 100%;
   z-index: 10000;
-  color: #14213D;
-  display: block;
   color: Black;
   font-family: "Abel", sans-serif;
   font-size: 16px;
@@ -23,7 +20,7 @@ body {
   text-transform: uppercase;
   padding: 0;
 }
-ul {
+li {
 list-style-type: none;
 }
 .header {
@@ -98,4 +95,19 @@ p {
 .people h4 {
   font-family: "Abel", sans-serif;
   font-size: 24px;
+}
+.external-links {
+  position: relative;
+  text-align: center;
+  color: White;
+  overflow-y: auto;
+  width: 100%;
+  z-index: 10000;
+  font-family: "Abel", sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  text-transform: uppercase;
+  padding: 0;
+  line-height: 50px;
+  bottom: 30px;
 }
