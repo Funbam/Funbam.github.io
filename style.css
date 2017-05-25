@@ -20,22 +20,26 @@ body {
   text-transform: uppercase;
   padding: 0;
 }
+.nav li {
+display: inline
+}
 li {
 list-style-type: none;
 }
 .nav a {
 color: Black; 
 text-decoration: none;
+padding: 0px 60px;
 }
-.nav li:hover {
-background-color: Grey;
+.nav a:hover {
+background-color: #d6d6d6;
 }
 .header {
   background-image: url(https://c1.staticflickr.com/8/7536/16035227679_1c7da786a4_b.jpg);
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
-  height: 650px;
+  height: 600px;
   width: 100%;
   color:White;
   font-family: "Abel", serif;
@@ -46,7 +50,7 @@ background-color: Grey;
   margin: 0 auto;
   position: relative;
   text-align: center;
-  top: 40%;
+  top: 25%;
   width: 50%;
 }
 h1 {
@@ -117,4 +121,15 @@ p {
   padding: 0;
   line-height: 50px;
   bottom: 30px;
+}
+.external-links a{
+text-decoration: none;
+color: white;
+}
+.external-links a:hover {
+background-color: Maroon;
+}
+.external-title {
+font-size: 30px;
+text-decoration: underline;
 }
